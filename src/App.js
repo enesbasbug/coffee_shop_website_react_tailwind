@@ -2,6 +2,7 @@ import Home from "./Home";
 import About from "./About";
 import Menu from "./Menu";
 import Contact from "./Contact";
+import Footer from "./Footer";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <About/>
       <Menu/>
       <Contact/>
+      <Footer/>
 
     </div>
     
