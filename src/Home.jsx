@@ -23,7 +23,7 @@ const Home = () => {
                             <Link to="menu" smooth duration={500}> Menu </Link>
                         </li>
                         <li className='text-zinc-200 lg:text-4xl text-3xl  font-bold'>
-                            <Link to="order" smooth duration={500}> Order </Link>
+                            <Link to="contact" smooth duration={500}> Contact </Link>
                         </li>
                     </ul>
                </div>
