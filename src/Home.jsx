@@ -7,7 +7,7 @@ const Home = () => {
 
     return (
         <div className='relative'>
-            <div className= 'h-screen w-screen flex flex-col justify-center bg-cover bg-center relative'>
+            <div className= 'h-screen w-full flex flex-col justify-center bg-cover bg-center relative'>
                 
             <img src={background_pic} alt="background" className='object-cover h-screen w-screen'/>   
                 
