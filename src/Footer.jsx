@@ -4,7 +4,7 @@ import {Link} from 'react-scroll';
 const Footer = () => {
   return (
 
-        <footer class=" w-full bg-white shadow dark:bg-gray-800">
+        <footer class=" w-full bg-white sm:h-screen md:h-screen lg:h-full shadow dark:bg-gray-800">
             <div class="w-full mx-auto container md:p-6 p-4 md:flex md:items-center md:justify-between">
             <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400"> © 2023 <a href="https://enesbasbug.com/" class="hover:underline">EnesBasbug™</a>. All Rights Reserved.
             </span>

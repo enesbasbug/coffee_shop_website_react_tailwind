@@ -4,7 +4,7 @@ import contact_pic from './assets/coffee_images/coffee_3.jpeg';
 const Contact = () => {
   return (
     
-    <div className='w-full lg:h-screen md:lg:h-screen sm:h-screen bg-gradient-to-b from-gray-700 via-gray to-gray-600'>
+    <div className='w-full lg:h-screen md:lg:h-full sm:h-screen bg-gradient-to-b from-gray-700 via-gray to-gray-600'>
         <div name="contact" className="container px-6 mx-auto py-24 ">
             <div className="container mx-auto xl:px-32 lg:text-left">
                 <div className="grid lg:grid-cols-2 items-center">
