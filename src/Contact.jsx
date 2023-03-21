@@ -1,5 +1,6 @@
 import React from 'react'
 import contact_pic from './assets/coffee_images/coffee_3.jpeg';
+// import contact_pic from './assets/coffee_images/efso.webp';
 
 const Contact = () => {
   return (

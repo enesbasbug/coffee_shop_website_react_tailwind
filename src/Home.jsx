@@ -32,7 +32,7 @@ const Home = () => {
 
             <div className="absolute bottom-0 w-full h-1/3 text-center opacity-80 bg-gray-800 p-12">
                 <h1 className='text-white text-6xl font-bold'>a Coffe Shop in the UK</h1>
-                <h2 className='text-white text-3xl font-light'>Some really great stuff goes here!</h2>
+                <h2 className='text-white text-3xl font-light pb-4 lg:pb-0'>Some really great stuff goes here!</h2>
             </div>
                 
             </div>
